@@ -1,0 +1,16 @@
+{
+	"name":"Limon",
+	"version":"1.0.0",
+	"description":"A simple blog tempelate.",
+	"url":"gilacms.com",
+	"options":{
+		"color":{
+			"type":"color","default":"#6b8f23"
+		},
+		"primary-color":{
+			"type":"color","default":"#4682b4"
+		},
+		"footer-text":{
+		}
+	}
+}

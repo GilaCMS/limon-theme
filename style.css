@@ -1,0 +1,32 @@
+body{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}
+.post-review a{var(--main-a-color)}
+.sidebar{padding-left:8px; min-height:200px}
+.header{margin-bottom: 20px;max-width:1100px;margin:auto;padding:48px 8px}
+.main,.g-navbar>span>ul{max-width:1100px;margin:auto}
+.featured-posts{margin-bottom: 20px}
+.header-logo{max-height: 80px; margin:10px}
+footer>*{max-width:1100px;margin:auto;}
+footer{background:#c6c6c6;margin-top:20px;color:#222}
+.footer-text,footer a{color:#222; }
+.g-navbar li ul li a{color:inherit}
+.mainmenu li a {color: white;padding: 22px 12px;font-weight:bold;transition:0.4s;}
+.mainmenu li a:hover{background:rgba(0.3,0.3,0.3,0.1)}
+.mainmenu li a{border-right:1px solid rgba(0,0,0,0.1);}
+li.active{background-color:var(--main-primary-color); color:white;}
+.post-title{font-size:18px;color: }
+.widget a{color: var(--main-a-color);}
+.pagination li, .widget-tag a{
+background: var(--main-primary-color);
+color: white!important;
+margin: 2px;
+border: 0;
+transition:0.4s;
+}
+.pagination{text-align:center}
+.pagination li a{color:white;border-radius:3px}
+.pagination a:hover,.pagination .active a {background:rgba(0.3,0.3,0.3,0.1)}
+.widget{padding: 0; margin-top: 20px;}
+.widget .g-nav.vertical li a{padding: 4px 12px}
+.widget-title{ font-weight:bold;font-family:sans-serif;color:#333;font-size:140%}
+.footer-widget .widget{width:33%; display:inline-grid;min-width: 240px}
+
