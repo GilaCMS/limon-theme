@@ -1,5 +1,6 @@
 <ul class="g-nav pagination">
 	<?php
+	if(!isset($page)) $page=1;
 	$totalpages = blog::totalpages();
 	if($page>5) echo '<li><a href="'.router::url().'?page=1">1</a></li>';
 	if($page>6) echo ' .. ';

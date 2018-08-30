@@ -21,9 +21,10 @@ color: white!important;
 margin: 2px;
 border: 0;
 transition:0.4s;
+border-radius:4px;
 }
 .pagination{text-align:center}
-.pagination li a{color:white;border-radius:3px}
+.pagination li a{color:white;min-width:40px;padding:14px}
 .pagination a:hover,.pagination .active a {background:rgba(0.3,0.3,0.3,0.1)}
 .widget{padding: 0; margin-top: 20px;}
 .widget .g-nav.vertical li a{padding: 4px 12px}
