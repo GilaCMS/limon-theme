@@ -2,3 +2,7 @@
 
 # limon-theme
 A blog theme for Gila CMS
+
+<img src="screenshot.png">
+
+Live Demo: https://gilacms.com/demo/?theme=limon
